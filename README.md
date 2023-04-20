@@ -6,6 +6,9 @@ Store input value in array using Map
 ## Live Project Link
 [Store input value in array using Map](https://stately-mooncake-8caee0.netlify.app/)
 
+
+## Multiple projects inside component folder
+
 ## Project Tutorial
 [Project Video Link](https://www.youtube.com/watch?v=cI_Qh_2x1w0) 
 
