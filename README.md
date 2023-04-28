@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ## Store input value in array using Map
-Store input value in array using Map
+Store input value in array using Map.
 
 ## Live Project Link
 [Store input value in array using Map](https://stately-mooncake-8caee0.netlify.app/)
